@@ -10,6 +10,7 @@
   margin-top: 0;
   padding-top: 35px;
 }
+
 .search-form {
   min-height: 10vh;
   display: flex;
@@ -21,6 +22,7 @@
   width: 50%;
   border: none;
   padding: 10px;
+  margin-bottom: 50px;
 }
 
 .search-button {
@@ -30,8 +32,8 @@
   padding: 10px 20px;
   color: whitesmoke;
   border: none;
+  margin-bottom: 50px;
 }
-
 
 .recipes{
   display: flex;
@@ -41,4 +43,8 @@
 
 .ingre{
     text-align: left;
+}
+
+.cal{
+  margin-top: 0;
 }
